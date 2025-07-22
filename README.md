@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**oleksandrvolovyk/oleksandrvolovyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android developer building practical mobile solutions.
 
-Here are some ideas to get you started:
+## 🚀 Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Guerrilla Mail Android Client** - A clean Android app for disposable email services. Built with Kotlin, Retrofit, Room, and Hilt.
+
+![Downloads](https://playbadges.pavi2410.me/badge/downloads?id=volovyk.guerrillamail&pretty) ![Rating](https://playbadges.pavi2410.me/badge/ratings?id=volovyk.guerrillamail&pretty)
+
+[📱 Google Play](https://play.google.com/store/apps/details?id=volovyk.guerrillamail) | [💻 Source](https://github.com/oleksandrvolovyk/guerrilla-mail-android-client)
+
+---
+
+## 🛠️ Tech Stack
+Android • Kotlin • Jetpack • Retrofit • Room • Hilt • Firebase
